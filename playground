@@ -11,6 +11,6 @@
   </head>
   <body>
     <h1>This is my page</h1>
-    <p>It is a <span="love">lovely</span> page, is it not?</p>
+    <p>It is a <span class="love">lovely</span> page, is it not?</p>
   </body>
 </html>
