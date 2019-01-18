@@ -6,5 +6,6 @@
   </head>
   <body>
     <h1>This is my page</h1>
+    <p>It is a <color="red">lovely</color> page, is it not?</p>
   </body>
 </html>
